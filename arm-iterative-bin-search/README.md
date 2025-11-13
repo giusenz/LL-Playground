@@ -2,6 +2,8 @@ main.c was implemented in order to test the algorithm and to demonstrate its cor
 
 Here is an output example.
 
+**************
+
 ./a.out 10 20 
 
 Generated sorted array of size 10.
