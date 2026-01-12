@@ -49,7 +49,7 @@ int cp(char *src, char *dest) {
 
 int main(int argc, char **argv) { 
     if (argc != 3) {
-        fprintf(stderr,"./cp [SOURCE FILE PATH] [DESTINATION FILE PATH]");
+        fprintf(stderr,"./cp [SOURCE FILE PATH] [DESTINATION FILE PATH]\n");
         return 1;
     }
     return cp(argv[1],argv[2]);
