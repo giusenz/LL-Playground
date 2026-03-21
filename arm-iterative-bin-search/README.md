@@ -1,8 +1,6 @@
 # Iterative Binary Search
 
-main.c was implemented in order to test the algorithm and to demonstrate its correctness.
 
-Here is an output example.
 
 ```bash
 ./a.out 10 20 
